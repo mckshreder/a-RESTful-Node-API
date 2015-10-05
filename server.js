@@ -27,8 +27,8 @@ app.use(function(req, res, next) {
 
 // log all requests to the console
 app.use(morgan('dev'));
-// basic route for the home page
 
+// basic route for the home page
 app.get('/', function(req, res) {
 	res.send('Welcome to the home page!');
 });
