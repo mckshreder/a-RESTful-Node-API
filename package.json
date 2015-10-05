@@ -1,0 +1,13 @@
+{
+  "name": "restful_node_api2attempt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.9",
+    "body-parser": "^1.14.1",
+    "morgan": "^1.6.1"
+  }
+}
